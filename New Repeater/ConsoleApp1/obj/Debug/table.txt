@@ -1,0 +1,13 @@
+idResponsable 
+      nomResponsable
+      prenomResponsable
+      emailResponsable
+      mdpResponsable
+      img
+      rib
+      dtn 
+      createdAt 
+      log
+      updatedAt
+      delatedAt
+      ville

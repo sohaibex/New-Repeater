@@ -1,0 +1,16 @@
+nom 
+                        prenom 
+                        dtn date
+                        adresse 
+                        tel 
+                        id_ville 
+                        email 
+                        mdp 
+                        TelW 
+                        TelN 
+                        nom_entreprise 
+                        site_web 
+                        secteur_activite 
+                        rc                                                            
+                        tp  
+                        ice 

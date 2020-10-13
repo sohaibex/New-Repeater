@@ -1,0 +1,14 @@
+    nom
+        prenom
+        nom_entreprise
+        adresse
+        telW
+        telN
+        site_web
+        secteur_activite
+        rc
+        tp
+        ice
+        region
+        ville
+        email

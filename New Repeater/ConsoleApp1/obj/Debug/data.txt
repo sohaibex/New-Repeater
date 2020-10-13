@@ -1,0 +1,15 @@
+ville
+villeSortie
+villeArrive
+villeRamassage
+agenceEnv
+agenceRec
+livreur
+agentPar
+agentPro
+client
+fraisLivraison
+id
+dateLivraison
+prixtotal
+numsuivie
