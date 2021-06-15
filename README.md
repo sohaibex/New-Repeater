@@ -1,7 +1,7 @@
 # New-Repeater
-This project was made by  my friend Kati Issam in c# this programme automate you texts for example if you want to write many things btwn a sentence you just enter the words that you want to enter them in a .txt file and you run the programme  you choose the name of the file the first sentece and the second then you chose where you want to add you items .
+This project was made by  my friend  Issam in c# this programme automate you texts for example if you want to write many things btwn a sentence you just enter the words that you want to enter them in a .txt file and you run the programme  you choose the name of the file the first sentece and the second then you chose where you want to add you items .
 
-this programme helps us a lot in the insert in sql when we were studying in ista lazzaret 
+this programme helps us a lot in the insert in sql when we were studying.
 
 example : 
 
